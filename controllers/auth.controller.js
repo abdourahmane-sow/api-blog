@@ -24,7 +24,7 @@ module.exports.register = async(req,res) => {
 
 /**
  * ==============================
- * Register controller
+ * Login controller
  * ==============================
  */
 module.exports.login = async(req,res) => {
